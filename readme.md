@@ -33,9 +33,10 @@
 </p>
 
 ## Pembagian Tim
-<p>Fauzi : Pembuatan arraylist kamar, Record
-Alif : Pembuatan menu login (function) , Queue
-Nazwa : Pembuatan informasi seputaran peraturan kost (arraylist),dan stack</p>
+<p>
+-Fauzi : Pembuatan arraylist kamar, Record
+-Alif : Pembuatan menu login (function) , Queue
+-Nazwa : Pembuatan informasi seputaran peraturan kost (arraylist),dan stack</p>
 
 ## Demo Proyek
 <ul>
